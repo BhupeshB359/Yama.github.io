@@ -1,0 +1,75 @@
+
+body {
+  background-color: #6600cc;
+  margin: 0;
+  padding: 0;
+
+}
+#main {
+  border:6px solid rgb(0,255,0);
+  border-radius: 10px;
+  background-color: white;
+  margin:3%;
+
+}
+#title, .subtitle {
+  text-align: center;
+  font-family: verdana;
+  bold:800;
+}
+#title {
+  font-size:2.5rem;
+  padding:1.5%;
+  margin:0;
+  background-color:rgb(0,255,0);
+}
+.subtitle {
+  margin: 0;
+  font-style: italic;
+}
+#img-div {
+
+
+}
+#image {
+    background-color: skyblue;
+  margin:10px auto;
+  display:block;
+  max-width:100%;
+  height:auto;
+  background-size: cover;
+
+}
+#img-caption {
+text-align:center;
+font-family: monospace;
+color:#330033;
+}
+#tribute-info {
+
+}
+#tribute-link {
+  margin:10px;
+font-family:cursive;
+text-transform:uppercase;
+color:brown;
+font-weight:1000;
+}
+#tribute-link:hover {
+color:green;
+}
+h2 {
+  font-family: impact;
+  letter-spacing:4px;
+}
+.intro, .birth, .career, .death{
+  font-family:verdana;
+  font-size:19px;
+}
+.link {
+  margin:10px;
+  font-size:20px;
+  font-family:fantasy;
+  display:block;
+  text-align:center;
+}
